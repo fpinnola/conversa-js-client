@@ -4,6 +4,11 @@
 
 Make sure you have an instance of the Conversa backend running. You can find that here.
 
+Install the Conversa client from npm.
+```
+npm install conversa-client
+```
+
 First create an instance of the Conversa Client
 ```
 // Import the ConversaClient
