@@ -6,6 +6,10 @@
   "main": "dist/index.js",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fpinnola/conversa-js-client.git"
+  },
   "scripts": {
     "build": "rm -rf dist && tsc"
   },
