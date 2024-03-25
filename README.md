@@ -2,7 +2,7 @@
 
 ## Getting Started
 
-Make sure you have an instance of the Conversa backend running. You can find that here.
+Make sure you have an instance of the Conversa backend running. You can find that [here](https://github.com/fpinnola/conversa).
 
 Install the Conversa client from npm.
 ```
