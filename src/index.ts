@@ -181,6 +181,7 @@ export class ConversaClient extends EventEmitter {
                     sampleRate,
                     echoCancellation: true,
                     noiseSuppression: true,
+                    autoGainControl: true,
                     channelCount: 1,
                 },
             });
